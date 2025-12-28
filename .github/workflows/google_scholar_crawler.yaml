@@ -1,9 +1,13 @@
 name: Get Citation Data
 
 on: 
- page_build: 
- schedule:
-  - cron:  '0 8 * * *'
+  page_build: 
+  schedule:
+    - cron:  '0 8 * * *'
+  workflow_dispatch: # <--- 关键：添加这一行来开启 Run workflow 按钮
+  push:
+    branches:
+      - main        # <--- 关键：添加这一行，让你改完代码推送到 GitHub 时自动触发一次
 
 jobs:
   build:
@@ -21,6 +25,7 @@ jobs:
         cd ./results
         git init
         git config --local user.name "${GITHUB_ACTOR}"
+        # 建议检查这里，确保 secrets.GITHUB_TOKEN 有写权限
         export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
         git add *.json
         git commit -m "Updated Citation Data"
