@@ -27,7 +27,7 @@ author:
   location         : "Zhejiang, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=JSeLOUwAAAAJ"
+  googlescholar    : "JSeLOUwAAAAJ"
   email            : "wanghanzju@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : WangHanZJU # e.g., "github username"
+  github           : "WangHanZJU" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
