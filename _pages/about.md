@@ -64,5 +64,5 @@ I am always open to potential collaborations and seeking opportunities to push t
 
 
 # 💻 Internships
-- *2024.4 - 2025.12* Research Assisant in Audio Research Team at Zhejiang University . **Advisor: Prof. Zhou Zhao (赵洲)(https://person.zju.edu.cn/en/zhaozhou)**.
+- *2024.4 - 2025.12* Research Assisant in Audio Research Team at Zhejiang University . **Advisor: Prof. Zhou Zhao [赵洲](https://person.zju.edu.cn/en/zhaozhou)**.
 - *2026.1 - now* MLE Intern Algorithm Luna Lab, Hangzhou
