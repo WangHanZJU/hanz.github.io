@@ -24,7 +24,7 @@ My research interests lie at the intersection of **NLP** and **Multi-Modal Gener
 I am always open to potential collaborations and seeking opportunities to push the boundaries of AI. Contact me for any exciting projects or discussions!
 
 # 🔥 News
-- *2026.1* &nbsp;🎉🎉 Started my internship at Luna Lab as a Multimodel LLM reasearcher!
+- *2026.1* &nbsp;🎉🎉 Started my internship at Luna Lab（宇生月伴） as a Moltimodel reasearcher!
 - *2025.12*: &nbsp;🎉🎉 Submitted two papers to **[ACL 2026](https://2026.aclweb.org/)**
 
 
