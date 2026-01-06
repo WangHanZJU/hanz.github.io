@@ -42,7 +42,7 @@ I am always open to potential collaborations and seeking opportunities to push t
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026(Under Review)</div><img src='images/aoe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026(Under Review)</div><img src='images/' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Comprehensive Benchmarking of Long-Form Speech Generation in Diverse Scenarios](images/article_aoe.pdf)
